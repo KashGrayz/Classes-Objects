@@ -1,4 +1,7 @@
+from itertools import product
 from alarm_clock import AlarmClock
+from product import Product
+from shopping_cart import ShoppingCart
 
 # Print the clock’s time to the terminal
 # Call the alarm clock’s change time method to change the time
@@ -9,4 +12,5 @@ from alarm_clock import AlarmClock
 # alarm_1.set_time()
 # alarm_1.set_alarm()
 # alarm_1.alarm_set()
+
 
